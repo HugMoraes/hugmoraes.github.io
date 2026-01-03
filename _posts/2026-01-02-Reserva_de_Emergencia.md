@@ -43,14 +43,15 @@ O Tesouro Selic é um título público, ou seja, você está emprestando dinheir
 
 O mais prático é __começar a juntar dinheiro para a reserva de emergência quanto antes__, mesmo que seja pouco, o importante é criar o hábito de poupar. Depois que atingir o valor desejado, você pode começar a investir em outros ativos. __O lugar da reserva de emergência que recomendo é o CDB do seu banco digital de preferência__, desde que possua garantia do FGC e liquidez diária. Normalmente caixinhas digitais possuem CDBs com essas características. Por fim, __nunca use o dinheiro da reserva de emergência para outros fins que não sejam emergências__, caso contrário você estará se colocando em risco financeiro.
 
+
 > "Se você não tem reserva de emergência você não deveria nem investir." - Raul Sena
 
 ---
 
 ### Referências
- - [__Bruno Perini - Você MAIS Rico__](https://www.youtube.com/@brunoperini) | ["ONDE INVESTIR A RESERVA DE EMERGÊNCIA? | Tesouro Selic x CDB x Fundo DI: qual rende mais?"](https://www.youtube.com/watch?v=HgubixK-zbI)
- - [__Investidor Sardinha l Raul Sena__](https://www.youtube.com/@investidorsardinha) | ["Reserva de emergência - Sem ela você vai se FERRAR em breve!"](https://www.youtube.com/watch?v=HTfQxGnp8zs)
- - [__O Primo Rico__](https://www.youtube.com/watch?v=9QQHw044BnU) | ["ONDE INVESTIR SUA RESERVA DE EMERGÊNCIA | TESOURO SELIC, NUBANK, INTER OU PICPAY"](https://www.youtube.com/watch?v=9QQHw044BnU)
- - [__Me Poupe!__](https://www.youtube.com/@MePoupe) | ["5 passos rápidos para montar sua RESERVA DE EMERGÊNCIA"](https://www.youtube.com/watch?v=egtTW_zvqJM)
- - [__Primo Pobre__](https://www.youtube.com/@PrimoPobre) | ["Quanto o POBRE deve ter na RESERVA DE EMERGÊNCIA? É mais SIMPLES do que você imagina!"](https://www.youtube.com/watch?v=RBpvCwvshnc)
- - [__Primo Pobre__](https://www.youtube.com/@PrimoPobre) | ["MELHOR LUGAR para a RESERVA DE EMERGÊNCIA"](https://www.youtube.com/watch?v=m9tKdU1Vh-g)
+- [__Bruno Perini - Você MAIS Rico__](https://www.youtube.com/@brunoperini) - ["ONDE INVESTIR A RESERVA DE EMERGÊNCIA? | Tesouro Selic x CDB x Fundo DI: qual rende mais?"](https://www.youtube.com/watch?v=HgubixK-zbI)
+- [__Investidor Sardinha l Raul Sena__](https://www.youtube.com/@investidorsardinha) - ["Reserva de emergência - Sem ela você vai se FERRAR em breve!"](https://www.youtube.com/watch?v=HTfQxGnp8zs)
+- [__O Primo Rico__](https://www.youtube.com/watch?v=9QQHw044BnU) - ["ONDE INVESTIR SUA RESERVA DE EMERGÊNCIA | TESOURO SELIC, NUBANK, INTER OU PICPAY"](https://www.youtube.com/watch?v=9QQHw044BnU)
+- [__Me Poupe!__](https://www.youtube.com/@MePoupe) - ["5 passos rápidos para montar sua RESERVA DE EMERGÊNCIA"](https://www.youtube.com/watch?v=egtTW_zvqJM)
+- [__Primo Pobre__](https://www.youtube.com/@PrimoPobre) - ["Quanto o POBRE deve ter na RESERVA DE EMERGÊNCIA? É mais SIMPLES do que você imagina!"](https://www.youtube.com/watch?v=RBpvCwvshnc)
+- [__Primo Pobre__](https://www.youtube.com/@PrimoPobre) - ["MELHOR LUGAR para a RESERVA DE EMERGÊNCIA"](https://www.youtube.com/watch?v=m9tKdU1Vh-g)
