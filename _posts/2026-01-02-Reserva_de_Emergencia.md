@@ -2,8 +2,8 @@
 layout: post
 title: "Reserva de Emergência"
 date: 2026-01-02 21:00:00 -0300
-categories: [Dinheiro, Investimento, Finanças]
-tags: dinheiro investimento financas
+categories: [Reserva, Dinheiro]
+tags: dinheiro investimento financas poupanca tesouro-selic cdb
 image: "/assets/img/reserva_de_emergencia.jpg"
 ---
 
