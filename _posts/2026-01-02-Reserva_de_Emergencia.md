@@ -39,6 +39,30 @@ O Tesouro Selic é um título público, ou seja, você está emprestando dinheir
 - Verificar as taxas envolvidas como taxa de administração, IOF, Imposto de Renda.
 - Nunca usar o dinheiro da reserva de emergência para outros fins que não sejam emergências.
 
+## Impostos e Taxas
+Os impostos mais comuns são o __IOF (Imposto sobre Operações Financeiras)__ e o __IR (Imposto de Renda)__. O IOF é um imposto cobrado somente quando o investimento é resgatado em um período menor que 30 dias, o imposto __diminui 3% a cada dia__, seguindo a seguinte tabela regressiva:
+> Essa tabela está mostrando a cada 5 dias, mas o IOF diminui 3% a cada dia.
+
+| Dias de aplicação | Alíquota do IOF |
+|------------------|-----------------|
+| 5                | 83%             |
+| 10                | 66%             |
+| 15                | 50%             |
+| 20                | 33%             |
+| 25                | 16%             |
+| 30 ou mais       | 0%              |
+
+Ou seja, __após 30 dias não há cobrança de IOF__. Já o IR é cobrado também seguindo uma tabela regrassiva, mas não some, segue a tabela:
+| Tempo de aplicação | Alíquota do IR |
+|--------------------|----------------|
+| Até 180 dias       | 22,5%          |
+| De 181 a 360 dias  | 20%            |
+| De 361 a 720 dias  | 17,5%          |
+| Acima de 720 dias  | 15%            |
+
+Então antes de decidir fazer um investimento para a reserva de emergência, __verifique as taxas e impostos__, e esteja preparado para não precisar retirar o dinheiro antes de pelo menos 30 dias para não pagar o IOF.
+
+
 ## Conselho Pessoal
 
 O mais prático é __começar a juntar dinheiro para a reserva de emergência quanto antes__, mesmo que seja pouco, o importante é criar o hábito de poupar. Depois que atingir o valor desejado, você pode começar a investir em outros ativos. __O lugar da reserva de emergência que recomendo é o CDB do seu banco digital de preferência__, desde que possua garantia do FGC e liquidez diária. Normalmente caixinhas digitais possuem CDBs com essas características. Por fim, __nunca use o dinheiro da reserva de emergência para outros fins que não sejam emergências__, caso contrário você estará se colocando em risco financeiro.
