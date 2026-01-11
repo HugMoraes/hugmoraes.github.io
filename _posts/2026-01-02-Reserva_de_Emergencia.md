@@ -53,6 +53,7 @@ Os impostos mais comuns são o __IOF (Imposto sobre Operações Financeiras)__ e
 | 30 ou mais       | 0%              |
 
 Ou seja, __após 30 dias não há cobrança de IOF__. Já o IR é cobrado também seguindo uma tabela regrassiva, mas não some, segue a tabela:
+
 | Tempo de aplicação | Alíquota do IR |
 |--------------------|----------------|
 | Até 180 dias       | 22,5%          |
