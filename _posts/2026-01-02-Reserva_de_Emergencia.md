@@ -80,3 +80,4 @@ O mais prático é __começar a juntar dinheiro para a reserva de emergência qu
 - [__Me Poupe!__](https://www.youtube.com/@MePoupe) - ["5 passos rápidos para montar sua RESERVA DE EMERGÊNCIA"](https://www.youtube.com/watch?v=egtTW_zvqJM)
 - [__Primo Pobre__](https://www.youtube.com/@PrimoPobre) - ["Quanto o POBRE deve ter na RESERVA DE EMERGÊNCIA? É mais SIMPLES do que você imagina!"](https://www.youtube.com/watch?v=RBpvCwvshnc)
 - [__Primo Pobre__](https://www.youtube.com/@PrimoPobre) - ["MELHOR LUGAR para a RESERVA DE EMERGÊNCIA"](https://www.youtube.com/watch?v=m9tKdU1Vh-g)
+- [__Breno Nogueira__](https://www.youtube.com/@brenonogueira68) - ["Dinheiro em Caixinhas: o GRANDE ERRO que ATRASA sua Vida Financeira"](https://youtu.be/nS1gY9xwgyw?si=nar5qER9B-BvFPcg)
